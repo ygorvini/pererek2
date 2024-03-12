@@ -5,13 +5,44 @@ img{
     width: 100%;
 }
 
+
 h1, p{
     text-align: center;
 }
-em {
+
+.titulo-principal{
+    padding: 20px;
+}
+
+.titulo-centralizado{
+    text-align: center;
+}
+
+em{
     color: red;
 }
 
-#missão{
+#missao{
     font-size: 20px;
+}
+
+.itens{
+    font-size: italic;
+}
+.principal{
+    background-color: #cccccc;
+    padding:30px;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.beneficios{
+    background-color: white;
+    padding: 20px;
+}
+.img-beneficios{
+    width: 50%;
 }
